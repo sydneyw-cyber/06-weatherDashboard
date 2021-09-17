@@ -86,7 +86,7 @@ function refreshsearchHistory() {
     var recents = JSON.parse(localStorage.getItem('recent'))
     for(i = recents.length - 1;i > -1;i--) {
         var recentItem = $('<li>').addClass('history-item')
-        var recentItemText = $('<a>').addClass('btn waves-effect red lighten-1').text(recents[i])
+        var recentItemText = $('<a>').addClass('btn waves-effect').text(recents[i])
         recentItem.append(recentItemText)
         searchHistory.append(recentItem);
     }

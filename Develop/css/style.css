@@ -1,0 +1,68 @@
+* {
+    font-family: 'Poppins', sans-serif;;
+}
+
+header {
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    background-color: rgb(2, 2, 146);
+    color: white;
+    font-size: 80px;
+    font-weight: bold;
+}
+
+.weatherInfo {
+    padding: 30px;
+    line-height: 3;
+}
+
+.col .row {
+    margin:0;
+}
+
+.card-title {
+    border-radius: 3px;
+    padding: 3px;
+}
+
+.card {
+    margin-right: 20px;
+    padding:5px;
+}
+
+.searchResults {
+    margin-top: 10px;
+}
+
+#sideBar > * {
+    margin: 10px;
+}
+
+.search_btn {
+    margin-bottom: 10px;;
+    
+}
+
+#history {
+    display:block;
+    padding: 10px
+}
+
+#searchResults {
+    margin-left: 1em;
+}
+
+#weatherInfo {
+    margin-top:10px;
+}
+
+#forecast {
+    margin-bottom:10px;
+}
+
+@media screen and (max-width: 600px){
+    #recentDiv {
+        display: none;
+    }
+}

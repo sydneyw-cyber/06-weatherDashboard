@@ -15,3 +15,5 @@ The user also can view the weather conditions of the new 5 days in the 5day fore
 2. [Weather Dashboard Example ](https://youtu.be/KqZGuzrY9D4)
 
 ## Screenshots:
+![When the page initailly load](./Assets/pageload.png)
+![The final results after pressing one of the search options](./Assets/finalpage.png)

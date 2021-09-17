@@ -8,7 +8,7 @@ The user also can view the weather conditions of the new 5 days in the 5day fore
 
 ## Links:
 1. [Github Repo](https://github.com/sydneyw-cyber/06-weatherDashboard.git)
-2. [Depolyed App]()
+2. [Depolyed App](https://sydneyw-cyber.github.io/06-weatherDashboard/)
 
 ## Resources Used:
 1. [Weather API](https://openweathermap.org/)
